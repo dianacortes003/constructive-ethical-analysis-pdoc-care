@@ -1,9 +1,9 @@
 # constructive-ethical-analysis-pdoc-care
 
-## Analyzing and Reforming Care Systems for PDoC - CHANGE THIS TITLE
+## Reforming Insurance Coverage for Prolonged Disorders of Consciousness: Analyzing Ethical, Legal, and Health Informatics Systems to Inform an Equitable Long-Term Care Framework 
 This repository contains a finalized academic essay developed for a graduate-level course in _Ethical and Legal Issues in Healthcare Informatics_.
 
-The project presents a constructive, ethics-driven analysis of current care systems for patients with prolonged disorders of consciousness (PDoC) and concludes with a multilevel reform proposal. It evaluates legal frameworks, insurance practices, and the role of health information technology (HIT) in PDoC care. The proposed reforms emerge at the intersection of patient needs, adaptations to existing legal frameworks, and strategic improvements in HIT.
+The project presents a constructive, ethics-driven analysis of current care systems for patients with prolonged disorders of consciousness (PDoC) and concludes with a multilevel reform proposal. While insurance coverage serves as the primary decision point shaping access to long-term care (LTC), the analysis demonstrates how insurance practices are structurally influenced by legal frameworks, ethical oversight mechanisms, and health information technology (HIT). The proposed reforms emerge at the intersection of patient needs, adaptations to existing legal structures, and strategic improvements in HIT that collectively inform insurance decision-making.
 
 > Note: The project was completed under strict word count constraints. Custom-designed graphics were used to convey complex information efficiently while reducing text length.
 
@@ -13,7 +13,10 @@ The project presents a constructive, ethics-driven analysis of current care syst
 - Aimed at bridging academic analysis with persuasive, thought-provoking, and engaging writing
 - Critical ethical reasoning with an emphasis on patient-centered advocacy.
 
-### Design & Visualization
+### Why Insurance Coverage?
+Although this project examines legal, ethical, and health information systems, insurance coverage is treated as the central operational mechanism through which LTC access is granted, restricted, or denied for patients with PDoC. Insurance determinations function as the convergence point where prognostic data, legal interpretation, ethical reasoning, and health information outputs are translated into real-world care decisions. As a result, inequities in PDoC care are often not solely the product of individual policies, but of misaligned systems that collectively shape insurance behavior. This analysis, therefore, frames insurance reform as a systems-level challenge rather than an isolated policy issue.
+
+### Use of Graphics & Visualization
 A key focus of this project is the use of custom-designed graphics to:
 - Convey complex relationships between legal, ethical, and healthcare elements.
 - Support ethical and legal reasoning visually.
@@ -28,13 +31,18 @@ __________________
 ### Purpose & Goals
   
 #### Purpose
-I spent three years working with patients with disorders of consciousness (DoC) and PDoC in a Long-Term Acute Care inpatient setting, where I developed a deep professional commitment to this population. During this time, I observed persistent gaps and ethical challenges in the U.S. long-term care system, but lacked the tools to analyze them in depth. This project provided an opportunity to move beyond experiential knowledge and advocate for these patients using evidence-based analysis and insights gained through my master’s coursework. The essay ultimately aims to raise awareness of the experiences, challenges, and inherent value of both patients and their caregivers within the healthcare system.
+I spent three years working with patients with disorders of consciousness (DoC) and PDoC in a Long-Term Acute Care inpatient setting, where I developed a deep professional commitment to this population. During this time, I observed persistent gaps and ethical challenges in the U.S. long-term care system, many of which were driven or reinforced by insurance coverage determinations, but lacked the tools to analyze them in depth.
+
+This project provided an opportunity to move beyond experiential knowledge and to advocate for these patients using evidence-based analysis and insights gained through my master’s coursework. I chose to focus specifically on PDoC because individuals in this group are more likely to require highly complex, lifelong medical services and may therefore be among the most significantly affected subgroups within the broader DoC spectrum. While PDoC serves as the primary focus, many of the ethical and systemic issues discussed are applicable to DoC more broadly. 
+
+Ultimately, this essay aims to raise awareness of the lived experiences, systemic challenges, and inherent value of both patients and their caregivers within the healthcare system, while encouraging more ethically grounded and systems-aware approaches to care and coverage.
 
 #### Goals
-- Identify inconsistencies and ethical gaps in current care systems.
+The primary intent of this work is utilize selected ethical principles as a compass to: 
+- Identify inconsistencies and gaps in current care systems.
 - Acknowledge the inherent complexities of long-term care for PDoC patients.
-- Highlight systemic issues that perpetuate inequities.
-- Propose actionable, multilevel reforms to improve patient care and support.
+- Highlight how systemic issues and practices self-perpetuate inequities.
+- Propose high-level reforms across the system to improve patient care and support.
 
 </details>
 
@@ -44,7 +52,13 @@ __________________
 <summary>SCOPE</summary>
 
 ### Scope
+Insurance coverage is examined not as a standalone policy domain, but as an outcome shaped by the interaction of legal protections, ethical standards, prognostic data, and health information technology systems.
 
+This project presents an ethical analysis of the legal frameworks, insurance coverage policies, care practices, and health information technology challenges affecting individuals with Prolonged Disorders of Consciousness (PDOC). The analysis is grounded in the ethical principles of autonomy, best-interest, beneficence, nonmaleficence, and justice, and draws on relevant research, legal standards, and healthcare system conditions as they existed in Spring 2025.
+
+The perspective of this work is analytical rather than prescriptive. Its primary focus is to examine and synthesize existing systemic issues rather than to propose a fully developed policy or technical implementation. However, the project intentionally moves beyond critique alone. The concluding sections introduce high-level solution frameworks to illustrate how ethical and legal principles _could_ be operationalized within healthcare systems, particularly through the application of health informatics and clinical decision-support concepts.
+
+These proposed frameworks are presented as conceptual tools intended to support discussion, education, and future policy or informatics development, rather than as finalized or implementable solutions.
 
 </details>
 
@@ -55,6 +69,30 @@ __________________
 <summary>STRENGTHS & LIMITATIONS</summary>
 
 ### Strengths & Limitations
+
+#### Strengths
+- __Clinically grounded perspective__
+  - My clinical background of working directly with this population for three years provided firsthand insight into care realities, patient trajectories, and systemic gaps that are often underrepresented in policy-focused discussions.
+    
+- __Integrated ethical analysis__
+  - The project utilizes ethical principles, legal considerations, insurance practices, and health information technology concepts to examine PDoC care from a systems-level perspective. This approach strengthens the analysis by situating patient experiences within broader structural and policy contexts.
+    
+- __Strong visual communication and systems thinking__
+  - A central strength of this project lies in its use of visual models and diagrams to convey complex ethical, legal, and systemic relationships. These graphics were thoughtfully designed to communicate layered concepts efficiently and have been validated as effective instructional examples in subsequent course offerings.
+    
+- __Clear argumentative structure__
+  - Despite strict word-count constraints, the essay presents a coherent and well-supported argument that progresses logically from problem identification to ethical analysis and high-level solution framing.
+
+
+#### Limitations
+- __Scope and level of technical specificity__
+  - As an argument-driven analysis, the proposed solution frameworks are intentionally high-level and conceptual. They do not attempt to dive into the full operational, regulatory, or financial complexity of implementing reforms within highly interconnected healthcare systems.
+
+- __Evolving expertise in health informatics and legal domains__
+  - At the time of writing, I was transitioning from a primarily clinical role into formal training in health informatics and healthcare law. As a result, certain technical, regulatory, or legal implementation considerations are necessarily simplified or abstracted to support ethical and policy-level discussion.
+
+- __Perspective shaped by proximity to patient care__
+  - The analysis is influenced by close professional engagement with this patient population. While this perspective strengthens the ethical grounding of the work, it may also emphasize patient-centered priorities over institutional or administrative constraints.
 
 
 </details>
