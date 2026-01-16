@@ -26,6 +26,8 @@ Lastly, justice is not upheld when insurance policies disproportionately limit c
 
 > Insert Figure 1
 
+![Figure1](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_Files/Figure%201.jpg)
+
 ## Ethical Incongruences and Health Informatics Limitations in the Current System
 
 Despite existing legal frameworks and ethical commitments to nondiscriminatory access to LTC, systemic gaps persist, allowing insurers to deny adequate support to PDoC patients. As illustrated in _Figure 2_, current legal 
@@ -35,6 +37,8 @@ legally justify withholding coverage. The discrepancy between what is promised b
 and provide for these patients becomes a source of harm that facilitates their abandonment. 
 
 > Insert Figure 2
+
+![Figure1](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_Files/Figure%202.jpeg)
 
 Insurance practices often produce ethically unjust outcomes by favoring rapid recovery trajectories, overlooking the complex, individualized nature of healing from sABIs. PDoC patients require a wide range of rehabilitative 
 and maintenance services over extended periods since only about 30% of them regain consciousness, and still, most will continue living with varying degrees of long-term disability. Additionally, their average survival rate 
@@ -48,6 +52,7 @@ preventable medical decline when services are cut off prematurely.
 
 > Insert Figure 3
 
+![Figure3](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_Files/Figure%203.jpeg)
 As insurance decisions are guided by data filtered through HIT systems, these systems hold the power to either advance equitable coverage or reinforce the barriers that lead to coverage denial. Further innovations in medical 
 technology are still needed to care for this population, especially around diagnostic tools, as none of the latest imaging technology has shown moderate or strong evidence to provide an accurate diagnosis 
 (Giacino et al., 2018a; Giacino et al., 2018b). However, while better imaging tools are being developed, other current HITs already have the potential to support evidence-based, ethical coverage decisions. _Figure 4_ exemplifies 
@@ -57,6 +62,8 @@ the output will continue to be inconsistent, and the system will remain ineffici
 process of neurological recovery would still require an extensive amount of time, patience, and ongoing support.
 
 > Insert Figure 4
+
+![Figure4](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_Files/Figure%204.jpeg)
 
 PDoC patients are surviving at the mercy of legal and healthcare systems that formally comply with ethical standards, but fail to ensure meaningful care in practice. Laws such as the Americans with Disabilities Act (ADA) and 
 Section 504 protect against discrimination, and the Centers for Medicare & Medicaid Services (CMS) policies are designed to promote access to LTC. Clinically, continuous stimulation is recognized as essential for brain healing, and 
@@ -77,6 +84,8 @@ regardless of their uncertain contribution to society, their suffering is undeni
 
 > Insert Figure 5
 
+![Figure5](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_Files/Figure%205.jpeg)
+
 The resulting crisis is not inescapable since what has been created can also be reimagined. To truly honor the ethical principles often cited but rarely upheld, it is necessary to pursue targeted reforms that can reshape insurance coverage 
 for the LTC needs of patients with PDoC.
 
@@ -88,6 +97,8 @@ where each level supports and strengthens the next. _Figure 6_ also illustrates 
 of participation. 
 
 > Insert Figure 6
+
+![Figure6](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_Files/Figure%206.jpeg)
 
 At the foundation of the restructuring process is the need for transparency and ethical oversight. Implementing insurance ethics review boards would add a formal check to warn against systemic biases and routine patterns of coverage denials, 
 particularly those that are disparately directed at patients with an unfavorable prognosis for functional outcomes. Simultaneously mandating public disclosure in coverage decision-making for approvals and denials would enhance accountability 
