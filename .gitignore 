@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+*.code-workspace
+
+# Node / Python / general
+node_modules/
+__pycache__/
+.env
+
+
