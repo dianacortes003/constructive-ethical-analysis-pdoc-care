@@ -69,11 +69,8 @@ possible to provide? The answer points to a troubling, self-perpetuating cycle i
 
 This self-perpetuating cycle is not a simple closed loop but a compound of systemic failures that grows more ethically fraught at every stage, creating a seemingly inescapable snowball effect. As care becomes increasingly 
 inaccessible after patients reach a plateau phase, medical decline follows suit, and their QoL becomes so diminished that family members may consider euthanasia or treatment withdrawal. However, many find these avenues obstructed by 
-legal ambivalence or procedural red tape, all in the name of the best-interest principle. This systemic trap practically implies that it is in the patient's best interest to remain in this prolonged state of suffering and all but 
-refuses to apply the same best-interest principle to justify access to care that could alleviate harm or prevent it in the first place. This impasse leaves a population with growing needs and diminishing options that further buries the 
-already-stressed caregivers and entire healthcare system. Despite this dire demand, innovation and standardization initiatives remain deprioritized for this population. Perhaps a gruesome theory for this might be that, in a system driven 
-by outcomes and efficiency, due to their limited prognosis and inability to contribute economically, PDoC patients may be categorized as a "not worthwhile investment". Yet their lives still warrant attention, dignity, and compassion because, 
-regardless of their uncertain contribution to society, their suffering is undeniably real, and their right to nondiscrimination remains unchanged.
+legal ambivalence or procedural red tape, all in the name of the best-interest principle. This systemic trap depicted in _Figure5_ practically implies that it is in the patient's best interest to remain in a prolonged state of suffering,
+and it all but refuses to apply the same best-interest principle to justify access to care that could alleviate harm or prevent it in the first place. This impasse leaves a population with growing needs and diminishing options that further buries the already-stressed caregivers and entire healthcare system. Despite this dire demand, innovation and standardization initiatives remain deprioritized for this population. Perhaps a gruesome theory for this is that, in a system driven by outcomes and efficiency, because of their poor prognosis and limited economic contribution to society, PDoC patients may be categorized as a "not worthwhile investment". Yet their lives still warrant attention, dignity, and compassion because, regardless of their uncertain contribution to society, their suffering is undeniably real, and their right to nondiscrimination remains unchanged.
 
 > Insert Figure 5
 
@@ -159,4 +156,4 @@ Zhang, B., O'Brien, K., Woo, J., Chi, B., Reeh, C., Li, S., & Kothari, S. (2023)
 
 _____________________________________
 
-_* Revisions include a minor title update, restructuring of the Introduction section, and clarifications to selected paragraphs._
+_* Revisions include a minor title update, restructuring of the Introduction section, clarifications to selected paragraphs, and incorporating figure descriptions._
