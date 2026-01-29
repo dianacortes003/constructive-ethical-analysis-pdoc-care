@@ -3,7 +3,7 @@
 ## Overview 
 This repository contains a finalized academic essay developed as a final project for a graduate-level course in _Ethical and Legal Issues in Healthcare Informatics_.
 
-__Project Title:__ _Reforming Insurance Coverage for Prolonged Disorders of Consciousness: Analyzing Ethical, Legal, and Health Informatics Systems to Inform an Equitable Long-Term Care Framework_
+__Project Title:__ [_Reforming Insurance Coverage for Prolonged Disorders of Consciousness: Analyzing Ethical, Legal, and Health Informatics Systems to Inform an Equitable Long-Term Care Framework_](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Essay_PDoC_Insurance_Ethical_Legal_Informatics.md)
 
 The essay presents a constructive, ethics-driven analysis of current care systems for patients with prolonged disorders of consciousness (PDoC) and concludes with a multilevel reform proposal. While insurance coverage serves as the primary decision point shaping access to long-term care (LTC), the analysis demonstrates how insurance practices are structurally influenced by legal frameworks, ethical oversight mechanisms, and health information technology (HIT). The proposed reforms emerge at the intersection of patient needs, adaptations to existing legal structures, and strategic improvements in HIT that collectively inform insurance decision-making. 
 
