@@ -24,7 +24,7 @@ that shape ethically sound care practices. Unfortunately, these principles are f
 insurance companies restrict access to LTC based on a limited prognosis. Beneficence and nonmaleficence are compromised when insurance decisions prioritize cost-effectiveness over adequate care, potentially resulting in harm. 
 Lastly, justice is not upheld when insurance policies disproportionately limit care based on the uncertain nature of PDoC recovery, leading to inequitable access to needed services. 
 
-> Insert Figure 1
+![Figure1](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_files/Figure_1.jpeg)
 
 ## Ethical Incongruences and Health Informatics Limitations in the Current System
 
@@ -34,7 +34,7 @@ that prioritize recovery over sustained quality-of-life (QoL) care (Zhang et al.
 legally justify withholding coverage. The discrepancy between what is promised by law and what is delivered in practice signifies more than a policy flaw. It reveals the bitter irony that the very system designed to protect 
 and provide for these patients becomes a source of harm that facilitates their abandonment. 
 
-> Insert Figure 2
+![Figure2](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_files/Figure_2.jpeg)
 
 Insurance practices often produce ethically unjust outcomes by favoring rapid recovery trajectories, overlooking the complex, individualized nature of healing from sABIs. PDoC patients require a wide range of rehabilitative 
 and maintenance services over extended periods since only about 30% of them regain consciousness, and still, most will continue living with varying degrees of long-term disability. Additionally, their average survival rate 
@@ -46,7 +46,7 @@ therapy (Zhang et al., 2023). _Figure 3_ depicts a condensed version of a patien
 vital input it needs to heal and begins to atrophy (Edlow et al., 2021). In the end, the unjust outcomes of these practices go beyond unmet needs. They also entail a reduced likelihood of minimal but meaningful recovery and 
 preventable medical decline when services are cut off prematurely.
 
-> Insert Figure 3
+![Figure3](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_files/Figure_3.jpeg)
 
 As insurance decisions are guided by data filtered through HIT systems, these systems hold the power to either advance equitable coverage or reinforce the barriers that lead to coverage denial. Further innovations in medical 
 technology are still needed to care for this population, especially around diagnostic tools, as none of the latest imaging technology has shown moderate or strong evidence to provide an accurate diagnosis 
@@ -56,7 +56,7 @@ way of any ideal use of HITs is a fundamental lack of standardization. Without u
 the output will continue to be inconsistent, and the system will remain inefficient. Moreover, even if every single PDoC patient were to get accurately diagnosed and had properly coordinated care, the inherently slow and variable 
 process of neurological recovery would still require an extensive amount of time, patience, and ongoing support.
 
-> Insert Figure 4
+![Figure4](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_files/Figure_4.jpeg)
 
 PDoC patients are surviving at the mercy of legal and healthcare systems that formally comply with ethical standards, but fail to ensure meaningful care in practice. Laws such as the Americans with Disabilities Act (ADA) and 
 Section 504 protect against discrimination, and the Centers for Medicare & Medicaid Services (CMS) policies are designed to promote access to LTC. Clinically, continuous stimulation is recognized as essential for brain healing, and 
@@ -72,7 +72,7 @@ inaccessible after patients reach a plateau phase, medical decline follows suit,
 legal ambivalence or procedural red tape, all in the name of the best-interest principle. This systemic trap depicted in _Figure5_ practically implies that it is in the patient's best interest to remain in a prolonged state of suffering,
 and it all but refuses to apply the same best-interest principle to justify access to care that could alleviate harm or prevent it in the first place. This impasse leaves a population with growing needs and diminishing options that further buries the already-stressed caregivers and entire healthcare system. Despite this dire demand, innovation and standardization initiatives remain deprioritized for this population. Perhaps a gruesome theory for this is that, in a system driven by outcomes and efficiency, because of their poor prognosis and limited economic contribution to society, PDoC patients may be categorized as a "not worthwhile investment". Yet their lives still warrant attention, dignity, and compassion because, regardless of their uncertain contribution to society, their suffering is undeniably real, and their right to nondiscrimination remains unchanged.
 
-> Insert Figure 5
+![Figure5](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_files/Figure_5.jpeg)
 
 The resulting crisis is not inescapable since what has been created can also be reimagined. To truly honor the ethical principles often cited but rarely upheld, it is necessary to pursue targeted reforms that can reshape insurance coverage 
 for the LTC needs of patients with PDoC.
@@ -82,7 +82,7 @@ for the LTC needs of patients with PDoC.
 
 In order to break the snowball effect, reform solutions must not only address insurance policies and health information practices but also restore the ethical foundation that has been lost. _Figure 6_ shows the proposed stacked-solutions approach, where each level supports and strengthens the next. These solutions are intentionally structured to meet key PDoC care needs while facilitating implementation feasibility through cohesive integration within the existing legal and regulatory frameworks of the Affordable Care Act (ACA) and CMS conditions of participation.
 
-> Insert Figure 6
+![Figure6](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_files/Figure_6.jpeg)
 
 At the foundation of the restructuring process is the need for transparency and ethical oversight. Implementing insurance ethics review boards would add a formal check to warn against systemic biases and routine patterns of coverage denials, 
 particularly those that are disparately directed at patients with an unfavorable prognosis for functional outcomes. Simultaneously mandating public disclosure in coverage decision-making for approvals and denials would enhance accountability 
