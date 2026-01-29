@@ -80,9 +80,7 @@ for the LTC needs of patients with PDoC.
 
 ## Breaking the Cycle by Reforming the System
 
-In order to break the snowball effect, reform solutions must not only address insurance policies and health information practices but also restore the ethical foundation that has been lost. _Figure 6_ proposes a stacked-solutions approach 
-where each level supports and strengthens the next. _Figure 6_ also illustrates that the proposed solutions could be cohesively integrated into the existing legal structures as sections of the Affordable Care Act (ACA) and/or as CMS conditions 
-of participation. 
+In order to break the snowball effect, reform solutions must not only address insurance policies and health information practices but also restore the ethical foundation that has been lost. _Figure 6_ shows the proposed stacked-solutions approach, where each level supports and strengthens the next. These solutions are intentionally structured to meet key PDoC care needs while facilitating implementation feasibility through cohesive integration within the existing legal and regulatory frameworks of the Affordable Care Act (ACA) and CMS conditions of participation.
 
 > Insert Figure 6
 
