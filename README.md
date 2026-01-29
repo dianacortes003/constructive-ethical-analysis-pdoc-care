@@ -17,7 +17,8 @@ A key focus of this project is the use of custom-designed graphics to:
 
 > Note: Graphics from this project were later requested by the course instructor for use as instructional examples.
 
-> Insert Figure sample "sneak a peak"
+> **Graphic sample:**
+![Figure6](https://github.com/dianacortes003/constructive-ethical-analysis-pdoc-care/blob/main/Figure_files/Figure_6.jpeg)
 
 ### Writing Style
 - Non-technical, evidence-based article to communicate an overview of related complex healthcare system dynamics.
