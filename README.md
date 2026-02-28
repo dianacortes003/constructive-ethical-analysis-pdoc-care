@@ -1,4 +1,4 @@
-# About This Repo
+# ⚖️ A Constructive Ethical Analysis of U.S. Care Systems for Patients with Prolonged Disorders of Consciousness
 
 ## Overview 
 This repository contains a finalized academic essay developed as a final project for a graduate-level course in _Ethical and Legal Issues in Healthcare Informatics_.
